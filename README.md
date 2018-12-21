@@ -1,4 +1,4 @@
-# UML Conceptual Model and Sequence Diagram (Library system)
+# UML Conceptual Model and Sequence Diagram (Library System)
 
 OVERVIEW
 --------------------------------------------------
