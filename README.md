@@ -18,6 +18,10 @@ This project consists of the modeling of a library management system that has fu
 Operations in the program are performed only by library staff and supervisors, and a supervisor is able to perform all the functions of an employee, plus some additional library management operations such as employee management, supplier registration.
 In this document are included: the conceptual model, system sequence diagrams, operations contract and brief conclusions.
 
+COMPUTER-AIDED SOFTWARE ENGINEERING APPLICATION
+--------------------------------------------------
+For this project it was used Astash* which is an UML modelling tool.
+
 EXAMPLES
 --------------------------------------------------
 ![Screenshot 1](img/concept-table.png)
@@ -29,3 +33,4 @@ MORE INFO
 --------------------------------------------------
 * Please check the files: `project report.pdf` and `Requirements Document.pdf` to view the project.
 * UML Sequence Diagram: <https://en.wikipedia.org/wiki/Sequence_diagram>
+* Astash software: <https://en.wikipedia.org/wiki/Astah*>
