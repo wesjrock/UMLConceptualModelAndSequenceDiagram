@@ -29,6 +29,14 @@ EXAMPLES
 ![Screenshot 3](img/dss2.png)
 ![Screenshot 4](img/operation-contract.png)
 
+CREDITS
+--------------------------------------------------
+- Aulos Plautius Martines Marino
+- Bruno Pinto Ferraz Fabbri
+- Henrique Pasquini Santos
+- Mateus Abrahão Cardoso
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 * Please check the files: `project report.pdf` and `Requirements Document.pdf` to view the project.
